@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(to bottom, #333, #999);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Optional font styling */
+}
+
+
+.topNav {
+    display: flex;
+    flex-direction: row;
+    
+    overflow: hidden;
+}
+
+.topNav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topNav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Style the main container */
+.main {
+    
+    
+    
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Center-align the content */
+}
+
+/* Additional styling for the heading section */
+.heading {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.logo {
+    padding: 5px;
+}

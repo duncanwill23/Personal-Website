@@ -1,0 +1,16 @@
+.contact{
+    align-items: center;
+}
+.contactHeader{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: 'monospace';
+    text-shadow: 2px 2px 2px black;
+}
+.contactText{
+    font-size: 20px;
+    color: white;
+    font-family: 'monospace';
+    text-align: center;
+}

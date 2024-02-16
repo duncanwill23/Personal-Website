@@ -1,0 +1,44 @@
+.aboutMeHeader {
+    text-align: center;
+  font-size: 50px;
+  color: white;
+  margin-left: 20px;
+  margin-right: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 2px 2px 2px black;
+}
+.aboutMeText {
+  font-size: 20px;
+  color: white;
+  margin-left: 20px;
+  margin-right: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 'Times New Roman', Times, serif
+}
+.aboutMe{
+    
+    border-color: coral;
+    border-style: solid;
+    border: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 10px;
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 300px;
+}
+.aboutMeImage{
+  margin-top: 120px;
+}
+    
